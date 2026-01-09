@@ -3223,7 +3223,7 @@ funp.com
 ||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
-||about.gitlab.com
+||gitlab.com
 ||gitlab.net
 |http://gmp4.com
 ||getsession.org
